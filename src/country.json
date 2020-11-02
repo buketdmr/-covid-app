@@ -1,0 +1,14 @@
+{
+  "tr": {
+    "name": "TURKEY",
+    "dataSource": "https://covid19.saglik.gov.tr/"
+  },
+  "uk": {
+    "name": "United Kingdom",
+    "dataSource": "https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases"
+  },
+  "hr": {
+    "name": "CROATIA",
+    "dataSource": "https://apify.com/zuzka/covid-hr"
+  }
+}
